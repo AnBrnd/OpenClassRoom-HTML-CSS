@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Anaïs Bernard 👋
 
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg)
 

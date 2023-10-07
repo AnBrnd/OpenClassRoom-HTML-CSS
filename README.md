@@ -2,7 +2,7 @@
 
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ana--bernard-blue)](https://www.linkedin.com/in/ana-bernard)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-ana--bernard-blue)](https://www.linkedin.com/in/ana-bernard)
 
 
 <!--

@@ -2,8 +2,7 @@
 
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-ana--bernard-blue)](https://www.linkedin.com/in/ana-bernard)
-
+<a href="https://www.linkedin.com/in/ana-bernard" style="display:none;">💬 - LinkedIn</a>
 
 <!--
 **AnBrnd/AnBrnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

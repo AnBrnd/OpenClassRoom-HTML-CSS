@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Hi there I'm Anaïs Bernard 👋
 
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg)
@@ -18,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+=======
+# AnBrnd
+>>>>>>> 818d43a8678c88945941daf0ffc707e6cccc2172

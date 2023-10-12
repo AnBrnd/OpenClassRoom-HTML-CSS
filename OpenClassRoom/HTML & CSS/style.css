@@ -28,17 +28,20 @@ h2 {
   color: #f9f8ff;
 }
 
-p, li {
+p,
+li {
   font-size: 1.1em;
   color: #f9f8ff;
 }
 
-header, footer {
+header,
+footer {
   background-color: white;
   padding: 20px 50px;
 }
 
 .cta {
+  display: inline-block;
   background: linear-gradient(#8e86b5, #acaeed);
   color: white;
   border-radius: 50px;
@@ -66,6 +69,7 @@ a:hover {
   border-right: 1px solid #8e86b5;
   border-bottom: 1px solid #8e86b5;
   padding: 50px;
+  margin-bottom: 80px;
 }
 
 .carre-contenu h2 {
@@ -74,6 +78,10 @@ a:hover {
 
 .carre-contenu ul {
   margin-top: 30px;
+}
+
+.carre-contenu + div {
+  text-align: center;
 }
 
 section {
@@ -85,7 +93,8 @@ section {
   margin: auto;
 }
 
-footer, nav {
+footer,
+nav {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -118,9 +127,21 @@ nav a {
 .accueil-introduction {
   display: flex;
   flex-direction: row;
-  width: 50%;
-  align-items: center;
+  width: 60%;
+  align-items: flex-start;
   margin: auto;
+}
+
+.accueil-introduction h1 {
+  margin-bottom: 15px;
+}
+
+.accueil-introduction p {
+  margin-bottom: 30px;
+}
+
+.accueil-introduction div {
+  padding-right: 80px;
 }
 
 .portfolio-section-photos {
@@ -146,8 +167,32 @@ nav a {
   gap: 15px;
 }
 
-.grid-paysages img, .grid-portraits img {
+.grid-paysages img,
+.grid-portraits img {
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+
+.lien-conteneur-photo {
+  position: relative;
+}
+
+.photo-hover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5em;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.7);
+  display: none;
+}
+
+.lien-conteneur-photo:hover .photo-hover {
+  display: flex;
 }
